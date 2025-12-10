@@ -1,0 +1,26 @@
+title: CaloRhythm
+description: Official project website for CaloRhythm
+theme: jekyll-theme-cayman
+
+url: "https://seunghwan3140.github.io"
+baseurl: "/CaloRhythm"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+# -------------------
+# Navigation Menu
+# -------------------
+nav:
+  - name: Home
+    link: /
+  - name: Features
+    link: /features
+  - name: Community
+    link: /community
+  - name: Contact
+    link: /contact
+  - name: About
+    link: /about
